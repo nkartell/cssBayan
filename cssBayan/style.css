@@ -85,6 +85,10 @@ input:hover ~ .title .icon {
   transform: rotate(45deg);
 }
 
+input:checked ~ .title .icon {
+    transform: rotate(45deg);
+  }
+
 .accordion__content {
     display: flex;
     justify-content: center;
