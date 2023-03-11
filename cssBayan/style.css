@@ -94,7 +94,7 @@ input:checked ~ .title .icon {
     justify-content: center;
     margin-bottom: 2vh;
     height: 0;
-    transition: 0.5s;
+    transition: .7s;
 }
 
 input:hover ~ 
